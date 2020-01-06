@@ -1,0 +1,13 @@
+1. upload script di hosting 
+2. ekstrak filenya di host
+ 
+
+untuk merubah fanspage dan safelink
+silahkan masuk di folder config
+terus edit file func.php
+berada di bagian paling bawah
+
+untuk merubah iklan silahkan masuk di folder ADS
+
+sekiranya itu saja
+
