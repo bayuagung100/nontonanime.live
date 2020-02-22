@@ -7,6 +7,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<meta name="googlebot" content="index,follow" />
 	<meta name="adz2younet-site-verification" content="20126fac4ece93025fd49477603276b6">
+	<meta name="cpm-adcom-site-verification" content="e99056e8f99aee86cc20d5686d8ef13c">
 	<?php 
 	$search = array(
       '-',
