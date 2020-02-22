@@ -6,6 +6,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<meta name="googlebot" content="index,follow" />
+	<meta name="adz2younet-site-verification" content="20126fac4ece93025fd49477603276b6">
 	<?php 
 	$search = array(
       '-',
